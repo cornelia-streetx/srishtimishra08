@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @srishtimishra08. I am a young coder, who is 12 years old.
+- 👋 Hi, I’m @srishtimishra08. I am a 12 year old Graphic Designer, Programmer and Developer.
 - 👀 I’m interested in coding and designing.
 - 🌱 I’m currently learning Java and Python for software development.
-- 💞️ I’m looking to collaborate on web devlopment projects, using HTML and JS, with CSS libraries.
+- 💞️ I’m looking to collaborate on projects, using HTML, JS, Kotlin, Swift and CSS libraries.
 - 📫 Wanna have some coffee? ... You can look out for me on https://github.com/srishtimishra08 for more details. Thank you!
 
 <!---
